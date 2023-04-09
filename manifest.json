@@ -3,7 +3,7 @@
   "editorType": [
     "figma"
   ],
-  "id": "preact-rectangles",
+  "id": "figma-guru",
   "name": "Figma Guru",
   "main": "build/main.js",
   "ui": "build/ui.js"
